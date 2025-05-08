@@ -33,6 +33,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="">[Github](https://github.com/andisof/UTS_PBO2_TIFK23_24552012027)</a></li>
   <li>Gdrive: <a href="">[Gdrive](https://drive.google.com/drive/folders/1qFNQ_G4OyT25MRpCkqKyOuS4ipQ4kfh1?usp=drive_link)</a></li>
 </ul>
